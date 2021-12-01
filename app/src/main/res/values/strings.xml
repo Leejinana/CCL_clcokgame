@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ClockGame</string>
+    <string name="btb_stamp">칭찬 도장</string>
+    <string name="btn_play">시작</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
